@@ -1,0 +1,4 @@
+# ClassificationOfDiabatesUsingDecisionTree
+
+In this study,we will learn Decision Tree Classification,attribute selection measure,and how to optimize Decision Tree Classifier using Python Scikit-learn package.Suppose that you are a manager at a Company.You want to a set of customers who are most likely to purchase your product. This is how you can save your marketing budget by finding your audience. This process of classifying customers into a group of potential and non-potential customers.
+Classification is a two-step process, learning step and prediction step. In the learning step, the model is developed based on given training data. In the prediction step, the model is used to predict the response for given data. Decision Tree is one of the easiest and popular classification algorithms to understand and interpret. It can be utilized for both classification and regression kind of problem.
